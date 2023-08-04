@@ -1,9 +1,10 @@
-### Hi there 👋
 
-<!--<h1 align="center">Hola, 👋, mi nombre es Jone Guerrero</h1>
+
+ <h1 align="center">Hola, 👋, mi nombre es Jone Guerrero</h1>
 <h3 align="center">Desarrollador fullstack junior de Bilbao</h3>
 
 - 🔭 Actualmente me dedico a **Reforzar conocimientos sobre el stack tecnológico que manejo a dia de hoy**
+  **Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.**
 
 <h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
