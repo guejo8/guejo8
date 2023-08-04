@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente me dedico a **Reforzar conocimientos sobre el stack tecnológico que manejo a dia de hoy**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
