@@ -1,7 +1,6 @@
-
+<div>
 <h1 align="center">Hi 👋, I'm Jone Guerrero</h1>
 
-<h3 align="left">Front-End:</h3>
 
 </div>  
 
